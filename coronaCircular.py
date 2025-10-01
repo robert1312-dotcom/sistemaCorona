@@ -1,3 +1,4 @@
+print("robert sistema")
 print("Corona Circular")
 radio_ma = float(input("Ingrese radio mayor: "))
 radio_me = float(input("Ingrese radio menor: "))
